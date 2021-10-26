@@ -8,7 +8,7 @@ class Users extends Component {
     super();
     this.state = {
       showUsers: true,
-      more: 'Test'
+      more: 'Test' 
     }; //object
   }
 
